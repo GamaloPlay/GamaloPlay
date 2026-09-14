@@ -2,8 +2,6 @@
 
 # Inside the Instant-Play Model: How Modern Browser Game Hubs Are Built to Remove Friction
 
-[Play GamaloPlay online](https://gamaloplay.com/)
-
 The way people discover and play casual games online has shifted dramatically over the past decade. Downloads, installers, and account walls used to be the default gateway into any game library. Today, an entire category of gaming platforms has grown around the opposite idea: open a tab, click once, and start playing immediately, with nothing standing between the visitor and the game itself. This shift didn't happen by accident — it reflects changing expectations about speed, convenience, and how much effort a casual player is actually willing to invest before deciding whether a game is worth their time.
 
 ## Why Instant Access Became the Standard
@@ -35,7 +33,7 @@ Not every browser games site organizes its collection the same way, and the diff
 | Content transparency | Visible About, Privacy, Terms, and DMCA pages | Signals the platform is run as a long-term project, not a throwaway page |
 | New title cadence | Ongoing additions on a rolling schedule | Keeps the library feeling current instead of frozen at launch |
 
-One platform that lines up closely with this structural checklist is **Gamaloplay**, a browser games hub built specifically around the instant-play model described above. Rather than centering the homepage around a handful of heavily promoted titles, the site organizes its collection into clearly separated categories — spanning action, adventure, simulation, arcade, horror, multiplayer, idle, puzzle, and survival games, among others — so that the full range of the library stays reachable rather than buried under a rotating "top picks" carousel. Every game runs directly in the browser at fullscreen resolution, with no download, plugin, or forced sign-up required to begin playing.
+One platform that lines up closely with this structural checklist is [GamaloPlay](https://gamaloplay.com/), a browser games hub built specifically around the instant-play model described above. Rather than centering the homepage around a handful of heavily promoted titles, the site organizes its collection into clearly separated categories — spanning action, adventure, simulation, arcade, horror, multiplayer, idle, puzzle, and survival games, among others — so that the full range of the library stays reachable rather than buried under a rotating "top picks" carousel. Every game runs directly in the browser at fullscreen resolution, with no download, plugin, or forced sign-up required to begin playing.
 
 What stands out about this kind of setup is the discipline it takes to maintain. A library only stays useful if older or broken entries are actually removed rather than left to accumulate, and if new additions are distributed across categories instead of piling into whichever genre happens to be trending. That kind of ongoing curation is far less visible to a casual visitor than a flashy homepage banner, but it's usually the difference between a site people return to and one they try once and abandon.
 
